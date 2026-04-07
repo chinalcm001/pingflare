@@ -10,8 +10,8 @@ directory = "dist"
 # D1 Database binding
 [[d1_databases]]
 binding = "DB"
-database_name = "pingflare-db"
-database_id = "ba9bdc5e-7f72-42b8-9d69-8b8a17bd2cdb"
+database_name = "pingflare"
+database_id = "e9955866-3738-4671-ba90-6fae7b8932f1"
 migrations_dir = "migrations"
 
 # Cron triggers - runs health checks every minute
